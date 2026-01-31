@@ -9,6 +9,8 @@
 
 ---
 
+### Download the PowerBI file here: [https://drive.google.com/file/d/1CB-WW6CBb_fVudHKF__4H5QlHUIYX03x/view?usp=sharing](https://drive.google.com/file/d/1CB-WW6CBb_fVudHKF__4H5QlHUIYX03x/view?usp=drive_link)
+
 Interactive **Power BI** dashboard for exploring **U.S. domestic flight operations** with a data-science mindset: KPI design, segmentation, correlation analysis, and root-cause breakdown for **delays** and **cancellations**.
 
 > Focus: operational performance monitoring (airlines/airports/months), delay distribution, and cancellation reasons.
