@@ -17,10 +17,10 @@ Interactive **Power BI** dashboard for exploring **U.S. domestic flight operatio
 
 ## Dashboard Preview
 
-![Intro](assets/intro.png)
-![All Flights Analysis](assets/all_flights_analysis.png)
-![Delayed Flights Analysis](assets/delayed_flights_analysis.png)
-![Canceled Flights Analysis](assets/canceled_flights_analysis.png)
+![Intro](resources/intro.png)
+![All Flights Analysis](resources/all_flights_analysis.png)
+![Delayed Flights Analysis](resources/delayed_flights_analysis.png)
+![Canceled Flights Analysis](resources/canceled_flights_analysis.png)
 
 ---
 
